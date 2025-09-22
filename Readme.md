@@ -1,7 +1,3 @@
-Got it ✅ — we’ll make the `README.md` a **direct and factual representation of the actual SQL database** you have (`inventory_db_full.sql`) instead of a general write-up.
-
-Here’s the **clean, factual `README.md`**:
-
 ````markdown
 # 📦 Inventory Tracking Database (MySQL)
 
